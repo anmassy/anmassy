@@ -1,40 +1,59 @@
-<h1 align="center">Hello World 👋</h1>
+# Salut, je suis [TON NOM] 👋
 
-<!-- Social centré -->
-<p align="center">
-  <a href="mailto:TON_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/TON_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/anmassy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+Bienvenue sur mon GitHub ! Voici un petit aperçu de mes compétences et langages que j'utilise régulièrement.
 
 ---
 
-<table>
-<tr>
-  <!-- Colonne gauche : logos sur 3 lignes -->
-  <td valign="top" width="50%" align="center">
-    <!-- Ligne 1 -->
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="50" />
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="50" />
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="50" /><br>
-    <!-- Ligne 2 -->
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" />
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="50" />
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="50" /><br>
-    <!-- Ligne 3 -->
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="50" />
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" />
-  </td>
+## 1️⃣ GitHub Stats & Top Languages
 
-  <!-- Colonne droite : Top Langs -->
-  <td valign="top" width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmassy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </td>
-</tr>
-</table>
+### Top Langs (automatique)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_UTILISATEUR&layout=compact&theme=radical)
+
+### GitHub Stats (contributions)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_UTILISATEUR&show_icons=true&theme=radical)
+
+---
+
+## 2️⃣ Barres de compétences simples (Markdown)
+
+### Mes langages
+- Python      ▓▓▓▓▓▓▓░░ 70%
+- JavaScript  ▓▓▓▓▓▓░░░ 60%
+- C++         ▓▓▓▓░░░░░ 40%
+- HTML/CSS    ▓▓▓▓▓░░░░ 50%
+
+---
+
+## 3️⃣ Barres de compétences avec emojis
+
+### Mes langages
+- Python      🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
+- JavaScript  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%
+- C++         🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40%
+- HTML/CSS    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%
+
+---
+
+## 4️⃣ Jauge stylée SVG (exemple)
+
+<svg width="400" height="150">
+  <rect x="10" y="20" width="380" height="20" fill="#ddd" rx="10"/>
+  <rect x="10" y="20" width="280" height="20" fill="#4caf50" rx="10"/>
+  <text x="10" y="15" font-family="Arial" font-size="14">Python 70%</text>
+
+  <rect x="10" y="60" width="380" height="20" fill="#ddd" rx="10"/>
+  <rect x="10" y="60" width="240" height="20" fill="#2196F3" rx="10"/>
+  <text x="10" y="55" font-family="Arial" font-size="14">JavaScript 60%</text>
+
+  <rect x="10" y="100" width="380" height="20" fill="#ddd" rx="10"/>
+  <rect x="10" y="100" width="160" height="20" fill="#f44336" rx="10"/>
+  <text x="10" y="95" font-family="Arial" font-size="14">C++ 40%</text>
+</svg>
+
+---
+
+## Contact
+
+- LinkedIn: [TonLinkedIn](https://www.linkedin.com/in/tonprofil)
+- Email: ton.email@example.com
+
