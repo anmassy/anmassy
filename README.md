@@ -1,7 +1,6 @@
-<!-- ==================== Titre ==================== -->
 <h1 align="center">Hello World 👋</h1>
 
-<!-- ==================== Social ==================== -->
+<!-- Social centré -->
 <p align="center">
   <a href="mailto:TON_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -16,22 +15,19 @@
 
 ---
 
-<!-- ==================== Langages + Stats ==================== -->
+<!-- Logos et Stats côte à côte -->
 <table>
 <tr>
   <!-- Colonne gauche : logos sur 3 lignes -->
   <td valign="top" width="50%" align="center">
-    <!-- Ligne 1 -->
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="50" />
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="50" />
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="50" /><br>
 
-    <!-- Ligne 2 -->
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" />
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="50" />
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="50" /><br>
 
-    <!-- Ligne 3 -->
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="50" />
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" />
   </td>
