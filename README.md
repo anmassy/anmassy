@@ -12,13 +12,18 @@
 
 ---
 
-## 📊 Mes statistiques GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anmassy&show_icons=true&theme=tokyonight)  
+## 📊 Mes statistiques & langages
 
----
-
-## 🚀 Langages les plus utilisés
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmassy&layout=compact&theme=tokyonight)
+<table>
+  <tr>
+    <td valign="top">
+      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anmassy&show_icons=true&theme=tokyonight)
+    </td>
+    <td valign="top">
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmassy&layout=compact&theme=tokyonight)
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,3 +49,4 @@
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=anmassy&color=blue)
+
