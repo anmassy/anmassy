@@ -19,15 +19,20 @@
 <!-- ==================== Langages + Stats ==================== -->
 <table>
 <tr>
-  <!-- Logos des langages -->
+  <!-- Logos des langages sur 3 lignes -->
   <td valign="top">
     <p align="center">
+      <!-- Ligne 1 -->
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="50" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="50" /><br>
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="50" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" /><br>
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="50" />
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="50" /><br>
+
+      <!-- Ligne 2 -->
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" />
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="50" />
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="50" /><br>
+
+      <!-- Ligne 3 -->
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="50" />
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" />
     </p>
@@ -36,9 +41,8 @@
   <!-- Statistiques Top Langs -->
   <td valign="top">
     <p align="center">
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmassy&layout=compact&theme=tokyonight&hide_border=true)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmassy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </p>
   </td>
 </tr>
 </table>
-
