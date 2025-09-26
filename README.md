@@ -1,6 +1,3 @@
-<!-- Bannière ou titre PNG -->
-<img src="https://via.placeholder.com/1200x200.png?text=ANMASSY+%E2%9C%85" width="100%" />
-
 <!-- Liens de contact centrés -->
 <p align="center">
   <a href="mailto:TON_EMAIL">
@@ -14,3 +11,16 @@
   </a>
 </p>
 
+---
+
+<!-- Logos des langages utilisés -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" />
+</p>
