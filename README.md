@@ -1,22 +1,22 @@
-# Salut, je suis [TON NOM] 👋
+# Hi, I'm anmassy 👋
 
-Bienvenue sur mon GitHub ! Voici un petit aperçu de mes compétences et langages que j'utilise régulièrement.
+Welcome to my GitHub! Here’s a quick overview of my skills and the languages I regularly use.
 
 ---
 
 ## 1️⃣ GitHub Stats & Top Languages
 
-### Top Langs (automatique)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_UTILISATEUR&layout=compact&theme=radical)
+### Top Languages (automated)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anmassy&layout=compact&theme=radical)
 
 ### GitHub Stats (contributions)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_UTILISATEUR&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anmassy&show_icons=true&theme=radical)
 
 ---
 
-## 2️⃣ Barres de compétences simples (Markdown)
+## 2️⃣ Simple Skill Bars (Markdown)
 
-### Mes langages
+### My Languages
 - Python      ▓▓▓▓▓▓▓░░ 70%
 - JavaScript  ▓▓▓▓▓▓░░░ 60%
 - C++         ▓▓▓▓░░░░░ 40%
@@ -24,9 +24,9 @@ Bienvenue sur mon GitHub ! Voici un petit aperçu de mes compétences et langage
 
 ---
 
-## 3️⃣ Barres de compétences avec emojis
+## 3️⃣ Emoji Skill Bars
 
-### Mes langages
+### My Languages
 - Python      🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
 - JavaScript  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%
 - C++         🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40%
@@ -34,7 +34,7 @@ Bienvenue sur mon GitHub ! Voici un petit aperçu de mes compétences et langage
 
 ---
 
-## 4️⃣ Jauge stylée SVG (exemple)
+## 4️⃣ Styled SVG Skill Gauge (example)
 
 <svg width="400" height="150">
   <rect x="10" y="20" width="380" height="20" fill="#ddd" rx="10"/>
@@ -54,6 +54,6 @@ Bienvenue sur mon GitHub ! Voici un petit aperçu de mes compétences et langage
 
 ## Contact
 
-- LinkedIn: [TonLinkedIn](https://www.linkedin.com/in/tonprofil)
-- Email: ton.email@example.com
+- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/yourprofile)
+- Email: your.email@example.com
 
