@@ -57,3 +57,9 @@ Welcome to my GitHub! Here’s a quick overview of my skills and the languages I
 - LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/yourprofile)
 - Email: your.email@example.com
 
+
+### My Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmassy&layout=compact&langs_count=5&theme=radical)
+
+
