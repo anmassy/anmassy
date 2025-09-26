@@ -1,4 +1,6 @@
-<!-- Liens de contact centrés -->
+---
+
+## 🌐 Social
 <p align="center">
   <a href="mailto:TON_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -13,7 +15,7 @@
 
 ---
 
-<!-- Logos des langages utilisés -->
+## 💻 Skills
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="50" />
@@ -23,4 +25,11 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" />
+</p>
+
+---
+
+## 📊 Statistiques
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmassy&show_icons=true&theme=tokyonight" />
 </p>
