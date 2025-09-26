@@ -1,8 +1,4 @@
 <p align="center">
-  <span style="font-size:28px; color:#39ff14;">🤖 AI & 🔐 Cybersecurity</span>
-</p>
-
-<p align="center">
   <i style="color:#00ff00;">"Decrypt the code, uncover the secrets..."</i>
 </p>
 
