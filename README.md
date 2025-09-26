@@ -1,10 +1,7 @@
-# 👋 Salut, moi c’est anmassy
+<!-- ==================== Titre ==================== -->
+<h1 align="center">Hello World 👋</h1>
 
-Passionné par le développement et la technologie, j’explore différents langages et frameworks pour créer des projets fun et utiles.  
-
----
-
-## 🌐 Me contacter
+<!-- ==================== Social ==================== -->
 <p align="center">
   <a href="mailto:TON_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -19,19 +16,29 @@ Passionné par le développement et la technologie, j’explore différents lang
 
 ---
 
-## 💻 Compétences
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" />
-</p>
+<!-- ==================== Langages + Stats ==================== -->
+<table>
+<tr>
+  <!-- Logos des langages -->
+  <td valign="top">
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="50" />
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="50" /><br>
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="50" />
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" /><br>
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="50" />
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="50" /><br>
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="50" />
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" />
+    </p>
+  </td>
 
----
-
-Toujours curieux d’apprendre et de collaborer sur de nouveaux projets. N’hésite pas à me contacter si tu souhaites échanger ou travailler ensemble ! 🌱
+  <!-- Statistiques Top Langs -->
+  <td valign="top">
+    <p align="center">
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmassy&layout=compact&theme=tokyonight&hide_border=true)
+    </p>
+  </td>
+</tr>
+</table>
 
