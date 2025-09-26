@@ -19,30 +19,26 @@
 <!-- ==================== Langages + Stats ==================== -->
 <table>
 <tr>
-  <!-- Logos des langages sur 3 lignes -->
-  <td valign="top">
-    <p align="center">
-      <!-- Ligne 1 -->
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="50" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="50" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="50" /><br>
+  <!-- Colonne gauche : logos sur 3 lignes -->
+  <td valign="top" width="50%" align="center">
+    <!-- Ligne 1 -->
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="50" />
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="50" />
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="50" /><br>
 
-      <!-- Ligne 2 -->
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="50" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="50" /><br>
+    <!-- Ligne 2 -->
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" />
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="50" />
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="50" /><br>
 
-      <!-- Ligne 3 -->
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="50" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" />
-    </p>
+    <!-- Ligne 3 -->
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="50" />
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" />
   </td>
 
-  <!-- Statistiques Top Langs -->
-  <td valign="top">
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmassy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </p>
+  <!-- Colonne droite : Top Langs -->
+  <td valign="top" width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmassy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </td>
 </tr>
 </table>
