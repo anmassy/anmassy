@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <a href="https://ton-site.github.io/troll-page.html">
+  <a href="https://anmassy.github.io/troll-page">
     <img src="https://img.shields.io/badge/🔐_DECRYPT_PROFILE-FF0000?style=for-the-badge&logo=security&logoColor=white" alt="Decrypt"/>
   </a>
 </p>
