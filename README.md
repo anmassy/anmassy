@@ -17,3 +17,10 @@
 <p align="center" style="line-height:1.2;">
   <span style="color:#00ff00;">01010100 01101000 01100101 00100000 01100011 01101111 01100100 01100101 00100000 01101110 01100101 01110110 01100101 01110010 00100000 01101100 01101001 01100101 01110011</span>
 </p>
+
+
+<p align="center">
+  <a href="https://ton-site.github.io/troll-page.html">
+    <img src="https://img.shields.io/badge/🔐_DECRYPT_PROFILE-FF0000?style=for-the-badge&logo=security&logoColor=white" alt="Decrypt"/>
+  </a>
+</p>
