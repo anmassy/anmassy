@@ -18,9 +18,4 @@
   <span style="color:#00ff00;">01010100 01101000 01100101 00100000 01100011 01101111 01100100 01100101 00100000 01101110 01100101 01110110 01100101 01110010 00100000 01101100 01101001 01100101 01110011</span>
 </p>
 
-
-<p align="center">
-  <a href="https://anmassy.github.io/troll-page">
-    <img src="https://img.shields.io/badge/🔐_DECRYPT_PROFILE-FF0000?style=for-the-badge&logo=security&logoColor=white" alt="Decrypt"/>
-  </a>
-</p>
+[![⛔ Definitely Don't Click](https://img.shields.io/badge/⛔-Definitely%20Don't%20Click-darkred?style=for-the-badge&logo=stop)](https://anmassy.github.io/troll-page/)
