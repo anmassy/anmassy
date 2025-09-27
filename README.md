@@ -1,5 +1,5 @@
 <p align="center">
-  <i style="color:#00ff00;">"Decrypt the code, uncover the secrets..."</i>
+  <i style="color:#00ff00;">"Decrypt the code, uncover the truth..."</i>
 </p>
 
 <p align="center">  
