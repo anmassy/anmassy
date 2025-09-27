@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="50" height="50" style="margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="50" height="50" style="margin: 0 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="50" height="50" style="margin: 0 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="50" height="50" style="margin: 0 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" height="50" style="margin: 0 10px;"/>
